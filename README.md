@@ -1,4 +1,4 @@
-# Übersicht Widget - Ethereum/USD price
+# Übersicht Widget - XRP/USD price
 
 ![Screenshot](https://github.com/eluft84/ubersicht-ripple-usd-price/blob/master/screenshot.png)
 
